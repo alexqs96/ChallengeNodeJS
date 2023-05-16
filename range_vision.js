@@ -7,7 +7,7 @@
 function range_vision(input) {
 
   // Valido que se ingresen numeros
-  if (typeof input !== 'number' || input <= 0) {
+  if (typeof input !== 'number' || input < 0) {
     console.error("ERROR: Ingresa un numero mayor a 0")
     return null
   }
