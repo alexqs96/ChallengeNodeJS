@@ -1,6 +1,6 @@
 # Challenge NodeJS
 
-## 1- Funcion de FizzBuzz
+## 1 - Funcion de FizzBuzz
 
 Escriba la función fizz_buzz() que devuelve un array de 1 a N, pero:
 
@@ -31,7 +31,7 @@ Output: [1,2,"Fizz",4,"Buzz","Fizz",7,8,"Fizz","Buzz",11,"Fizz",13,14,"FizzBuzz"
   node fizzbuzz.js
 ```
 
-## 2- Funcion de Número de Cardinalidad
+## 2 - Funcion de Número de Cardinalidad
 
 Escriba la función number_cardinality() que toma un número entero y devuelve una cadena, de la siguiente manera:
 
@@ -62,7 +62,7 @@ Output: odd
   node number_cardinality.js
 ```
 
-## 3- Funcion de Rango de Visión
+## 3 - Funcion de Rango de Visión
 
 Crear la función range_vision() que, dado un entero no negativo, determine si hay al menos un dígito 1 en el entero que tiene el valor de visualización más bajo de todos los dígitos del entero. La función debe devolver un booleano: true cuando un dígito 1 tiene el valor de vista más bajo en el número dado, false de lo contrario.
 
