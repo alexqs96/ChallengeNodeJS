@@ -12,7 +12,7 @@ function fizz_buzz(input) {
 
   // Valido que se ingresen numeros
   if (typeof input !== 'number' || input <= 0) {
-    console.error("ERROR: Ingresa un numero mayor a 1")
+    console.error("ERROR: Ingresa un numero mayor a 0")
     return []
   }
 
